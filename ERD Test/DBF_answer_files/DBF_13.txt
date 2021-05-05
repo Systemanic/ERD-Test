@@ -1,0 +1,1 @@
+Defines the numerical attributes of the relationship between two entities or entity sets.

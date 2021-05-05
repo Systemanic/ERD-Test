@@ -1,0 +1,8 @@
+Strong Entity Set
+Strong entity set always has a primary key.
+It is represented by a rectangle symbol.
+It contains a Primary key represented by the underline symbol.
+The member of a strong entity set is called as dominant entity set.
+Primary Key is one of its attributes which helps to identify its member.
+In the ER diagram the relationship between two strong entity set shown by using a diamond symbol.
+The connecting line of the strong entity set with the relationship is single.

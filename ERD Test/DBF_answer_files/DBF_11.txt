@@ -1,0 +1,2 @@
+It is a single-valued property of either an entity-type or a relationship-type.
+It is the characteristics or properties of an entity or relation.

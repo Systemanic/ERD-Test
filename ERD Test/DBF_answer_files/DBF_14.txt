@@ -1,0 +1,4 @@
+One-to-One Relationships
+One-to-Many Relationships
+May to One Relationships
+Many-to-Many Relationships
